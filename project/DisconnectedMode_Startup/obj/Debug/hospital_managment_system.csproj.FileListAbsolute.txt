@@ -1,0 +1,103 @@
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\DisconnectedMode_Startup.exe
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\Oracle.DataAccess.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\DisconnectedMode_Startup.exe.config
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.Shared.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\FlashControlV71.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\ShockwaveFlashObjects.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\stdole.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.DisplayDoctors.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Form1.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Formconn.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Formcrystal1.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Formcrystal2.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Mainform.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Properties.Resources.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Searchmedicine.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\hospital_managment_system.csproj.GenerateResource.cache
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\hospital_managment_system.csproj.CoreCompileInputs.cache
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\hospital_managment_system.csproj.CopyComplete
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.exe
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.pdb
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\hospital_managment_system.csprojAssemblyReference.cache
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\DisconnectedMode_Startup.pdb
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\DisconnectedMode_Startup.exe.config
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\DisconnectedMode_Startup.exe
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\DisconnectedMode_Startup.pdb
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\ShockwaveFlashObjects.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\bin\Debug\stdole.dll
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\hospital_managment_system.csprojResolveAssemblyReference.cache
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.DisplayDoctors.resources
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Form1.resources
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Formconn.resources
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Formcrystal1.resources
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Formcrystal2.resources
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Mainform.resources
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Properties.Resources.resources
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Searchmedicine.resources
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\hospital_managment_system.csproj.GenerateResource.Cache
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.exe
+D:\Therd year\Database\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.pdb
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\DisconnectedMode_Startup.exe.config
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\DisconnectedMode_Startup.exe
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\DisconnectedMode_Startup.pdb
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.Shared.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\FlashControlV71.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\Oracle.DataAccess.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\ShockwaveFlashObjects.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\bin\Debug\stdole.dll
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\hospital_managment_system.csprojAssemblyReference.cache
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.DisplayDoctors.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Form1.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Formconn.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Formcrystal1.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Formcrystal2.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Mainform.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Properties.Resources.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.Searchmedicine.resources
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\hospital_managment_system.csproj.GenerateResource.cache
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\hospital_managment_system.csproj.CoreCompileInputs.cache
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\hospital_managment_system.csproj.CopyComplete
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.exe
+D:\mohamed\Ibraa\3 cs\Second Term\Database\project\project\project\Task_database\DisconnectedMode_Startup\obj\Debug\DisconnectedMode_Startup.pdb
